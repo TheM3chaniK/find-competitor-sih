@@ -26,7 +26,7 @@ class Scrapper:
         self.page.locator('//*[@id="organic-div"]/form/div[4]/button').click()
         self.page.close()
 
-    def search(self, LINK=os.environ.get("LINK")):
+    def search(self, LINK=os.environ.get("SEARCH_LINK")):
         print("[+] Applying Search Filters.....")
         self.page = self.context.new_page()
         self.page.goto(str(LINK))
@@ -105,6 +105,7 @@ class Scrapper:
                 if scroll_attempts >= max_scroll_attempts:
                     print("[!] No more new posts. Ending scrape.")
                     break
+        return captions
 
     def close(self):
         self.browser.close()
