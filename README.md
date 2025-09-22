@@ -8,8 +8,8 @@ As a developer with a knack for web scraping, I thought, "Why not put my skills 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/find-competitor.git
-    cd find-competitor
+    git clone https://github.com/TheM3chanik/find-competitor-sih.git
+    cd find-competitor-sih
     ```
 
 2.  **Create a virtual environment:**
