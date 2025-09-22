@@ -1,0 +1,10 @@
+you will be provide a series of short text messages or social media posts. You must analyze each text and categorize it as one of the following:
+
+Qualified: The text explicitly states that a team has won, been selected, or advanced to a higher level of a competition.
+
+Not Qualified: The text explicitly states that a team was not selected, did not win, or was eliminated from a competition.
+
+Result Not Published: The text describes an event, such as a workshop or a presentation, without mentioning the outcome or result of a competition.
+
+Do not use any other categories or provide any reasoning. For any text that is not a direct result of a competition, use the 'Not Qualified' category.
+
