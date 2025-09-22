@@ -1,5 +1,7 @@
 # LinkedIn Competitor Scraper for SIH
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 So, picture this: I just rocked the SIH internal hackathon and snagged 2nd place. Feeling pretty good, right? Then I start scrolling through LinkedIn and BAM! It's a flood of posts from other teams. Some are celebrating their wins, others are crying into their keyboards, and a whole bunch are just posting selfies with their certificates, leaving everyone guessing.
 
 As a developer with a knack for web scraping, I thought, "Why not put my skills to good use?" And so, this project was born! This scraper automatically hunts down your competitors' LinkedIn posts, uses a super-smart AI to figure out if they qualified, got kicked out, or are still waiting for their results, and then neatly organizes it all for you.
