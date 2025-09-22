@@ -5,3 +5,4 @@ test-*
 cookies.json
 __pycache__/
 captions.txt
+*.csv*
