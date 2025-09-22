@@ -1,2 +1,7 @@
 env/
 .env
+searchfilters.txt
+test-*
+cookies.json
+__pycache__/
+captions.txt
